@@ -2869,6 +2869,7 @@ enum DataAssetType {
   CTATEXT = 12;
 
   // Exchange-specific values above 500.
+  EXCHANGE_SPECIFIC_DATA_ASSET_TYPE_500 = 500;
 }
 
 // OpenRTB Native 1.0: Common image asset element types of native advertising
