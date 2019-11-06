@@ -16,3 +16,6 @@ target/*
 nbproject/*
 nbactions.xml
 nb-configuration.xml
+
+#protoc
+protoc/*
